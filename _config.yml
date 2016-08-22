@@ -1,0 +1,28 @@
+name: benevolant
+favicon: null
+layout_spectrum: 0.34920041146688163
+typography_spectrum: 0.07140175811946392
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.3636795333586633
+  lightness: 0.13359515136107802
+  saturation: 0.7403423406649381
+  rhythmicContrast: 0.3883425765670836
+purpose: []
